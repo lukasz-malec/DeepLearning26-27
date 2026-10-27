@@ -1,0 +1,12 @@
+# dane i wyniki treningu - nie wysyłamy na GitHuba
+data/
+highway_results/
+*.pt
+*.tar.gz
+ 
+# środowisko Pythona i pliki tymczasowe
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+ 
